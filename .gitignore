@@ -1,0 +1,6 @@
+**/*.o
+minishell
+notes.h
+*.txt
+infile
+.DS_Store
